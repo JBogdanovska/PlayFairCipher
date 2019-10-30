@@ -1,0 +1,10 @@
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.csprojAssemblyReference.cache
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.Form1.resources
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.Properties.Resources.resources
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.csproj.GenerateResource.cache
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\jovan\Desktop\Jovana's\Fall 2019\C#\Exercise5\Exercise5\obj\Debug\Exercise5.pdb
